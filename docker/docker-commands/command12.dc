@@ -1,1 +1,4 @@
 docker-compose up -d
+docker-compose logs todoback
+docker-compose logs todofront
+docker-compose logs todotests
